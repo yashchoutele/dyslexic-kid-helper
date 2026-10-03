@@ -3,7 +3,7 @@
 > **Portfolio Project** · React + Flask · Deployed on Render (free tier)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=render)](https://your-app.onrender.com)
-[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yashh786/dyslexic-kid-helper)
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yashchoutele/dyslexic-kid-helper)
 
 ---
 
@@ -73,7 +73,7 @@ You can create your own profile directly in the app (up to 3 profiles supported)
 
 ```bash
 # Clone the repo
-git clone https://github.com/Yashh786/dyslexic-kid-helper.git
+git clone https://github.com/yashchoutele/dyslexic-kid-helper.git
 cd dyslexic-kid-helper
 
 # Copy and fill in your env vars
